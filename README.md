@@ -63,4 +63,7 @@ Project Backlog for Online Chess App
 | ID | Requirement |
 |---|---|
 | UR01 | A new user of the site should be able to successfully create an account in at most 90 seconds, 90% of the time |
+| UR02 |The chess website shall support at least 10,000 users at the same time|
+|UR03|A new user should be able to access the chess website from all kinds of portable devices|
 | PR01 | A player should recieve their opponent's move within 1 second of it being made, 95% of the time |
+| PR02 | A player should recieve other's friend request within 1 second of it being made, 95% of the time |
