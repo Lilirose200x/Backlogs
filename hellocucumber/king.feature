@@ -1,8 +1,8 @@
 Feature: Move King
 
   As a player
-  I would like to move the king
-  So that I can capture an opponent's piece or avoid a checkmate
+  I would like to play a legal move with my king
+  So that I can move my king
 
      # Normal Flow
   Scenario: move the king one square in any direction

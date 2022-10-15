@@ -2,7 +2,7 @@ Feature: Display Friend List
 
   As a user
   I would like to see my list of friends and their status
-  So that I can start a game with them or chat with them
+  So that I can start a game with one of them
 
   # Normal Flow
   Scenario: display the friend list successfully

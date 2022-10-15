@@ -1,7 +1,7 @@
 Feature: Offer Draw
 
   As a player
-  I would like to request draw with my opponent
+  I would like to offer a draw to my opponent
   So that we can start next match
 
     # Normal Flow

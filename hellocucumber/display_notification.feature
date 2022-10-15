@@ -1,8 +1,8 @@
 Feature: Display Notification
 
   As a user
-  I would like to receive message from friends and system
-  So that I can send messages to them, and get up-to-date notification
+  I would like to view a list of notifications
+  So that I can see when my friend has invited me to a game
 
   # Normal Flow
   Scenario: notification provide to the signed-in user

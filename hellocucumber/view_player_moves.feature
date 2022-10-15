@@ -1,8 +1,8 @@
-Feature: Record Player Move
+Feature: View Player Moves
 
-  As a player
-  I would like the system to record each move
-  So that I can review the moves made by myself and opponent
+  As a player or spectator
+  I would like to view a list of moves played a game
+  So that I can review the moves made by each player
 
     # Normal Flow
   Scenario Outline: record regular moves

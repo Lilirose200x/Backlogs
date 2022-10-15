@@ -1,8 +1,8 @@
 Feature: Start A Game
 
   As a player
-  I would like to start a game
-  So that I can enjoy playing chess
+  I would like to find a game
+  So that I can play chess online
 
       # Normal Flow
   Scenario: play against friends

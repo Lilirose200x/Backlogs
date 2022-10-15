@@ -1,8 +1,8 @@
 Feature: Register
 
   As a user
-  I would like to register my account
-  So that I can save my records and preference settings
+  I would like to register for an account
+  So that I can save my rating and preference settings
 
     # Normal flow
   Scenario Outline: register with an email

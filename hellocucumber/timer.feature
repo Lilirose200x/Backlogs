@@ -1,8 +1,8 @@
 Feature: Timer
 
   As a player
-  I would like the system to have a timer to record available time for each move
-  So that I can manage the time to move
+  I would like to play chess with time control
+  So that I can ensure that a match will not last too long
 
       # Normal Flow
   Scenario: timer display the remaining time

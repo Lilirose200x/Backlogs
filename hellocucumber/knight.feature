@@ -1,8 +1,8 @@
 Feature: Move Knight
 
   As a player
-  I would like to move a knight
-  So that I can capture an opponent's piece
+  I would like to play a legal move with my knight
+  So that I can move my knight
 
      # Normal Flow
   Scenario: move a knight towards a corner square in L shape

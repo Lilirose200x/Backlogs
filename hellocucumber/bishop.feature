@@ -1,9 +1,9 @@
 Feature: Move Bishop
 
   As a player
-  I would like to move a bishop
-  So that I can capture an opponent's piece in the diagonal direction
-
+  I would like to play a legal move with my bishop
+  So that I can move my bishop
+  
      # Normal Flow
   Scenario: move a bishop diagonally
     Given it is my turn to make a move

@@ -1,7 +1,7 @@
 Feature: Display Live Streamer
 
   As a user
-  I would like to watch a streamer's live
+  I would like to view a list of streams on an external platform using the website
   So that I can find a streamer that I want to watch
 
   # Normal Flow

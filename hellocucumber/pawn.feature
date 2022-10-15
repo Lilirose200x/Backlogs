@@ -1,8 +1,8 @@
 Feature: Move Pawn
 
   As a player
-  I would like to move a pawn
-  So that I can arrive
+  I would like to play a legal move with a pawn
+  So that I can move my pawn
 
      # Normal Flow
   Scenario: move a pawn one square forwards

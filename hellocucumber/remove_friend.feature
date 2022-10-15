@@ -1,8 +1,8 @@
 Feature: Remove Friend
 
   As a user
-  I would like to remove some friends
-  So I can add new friends
+  I would like to remove a friends
+  So they can no longer send me game requests
 
   # Normal Flow
   Scenario Outline: remove a friend

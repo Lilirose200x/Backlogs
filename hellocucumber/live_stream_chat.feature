@@ -1,8 +1,8 @@
 Feature: Live Stream Chat
 
-  As a user
-  I would like to post chat in live channels
-  So that I can have interaction with the streamer and other spectators
+  As a livestream viewer
+  I would like to chat in a live lobby
+  So that I can interact with the other spectators
 
   # Normal Flow
   Scenario: send a regular message

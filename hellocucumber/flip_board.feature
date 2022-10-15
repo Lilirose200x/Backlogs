@@ -1,8 +1,8 @@
 Feature: Flip Board
 
-  As a player
-  I would like to flip the chess board displaying to me
-  So that I can use the side that I am most comfortable with
+  As a player or spectator
+  I would like to flip the display of the chess board
+  So that I can see the position from the perspective of either side
 
   # Normal Flow
   Scenario: flip the board on click

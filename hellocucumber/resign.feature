@@ -1,8 +1,8 @@
 Feature: Resign
 
   As a player
-  I would like to resign when I am about to lose
-  So that we can start next match
+  I would like to resign
+  So that I can avoid playing out a game I will lose
 
     # Normal Flow
   Scenario: player request to resign and confirmed

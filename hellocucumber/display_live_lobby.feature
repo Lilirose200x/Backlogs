@@ -1,7 +1,7 @@
 Feature: Display Live Lobby
 
   As a user
-  I would like to spectate other player's dual
+  I would like to spectate other players'duel
   So that I can learn from others and for entertainment
 
   # Normal Flow

@@ -2,7 +2,7 @@ Feature: Language Setting
 
   As a user
   I would like to customize the language of the application
-  So that I can use the application more comfortable
+  So that I can use the application in a language I am comfortable with
 
     # Normal Flow
   Scenario: change a different language on the system language list

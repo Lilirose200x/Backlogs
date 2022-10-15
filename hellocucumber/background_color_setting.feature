@@ -2,7 +2,7 @@ Feature: Background Color Setting
 
   As a user
   I would like to customize the background of my chess board
-  So that I can play on my favorite board color combination
+  So that I can play on my favorite color combination
 
     # Normal Flow
   Scenario: change a different color on the board color selection list

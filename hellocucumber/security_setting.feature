@@ -1,7 +1,7 @@
 Feature: Security Setting
 
   As a user
-  I would like to change my password periodically
+  I would like to change my password
   So that I can protect my account from being stolen
 
       # Normal Flow

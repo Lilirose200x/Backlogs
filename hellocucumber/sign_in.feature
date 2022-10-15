@@ -2,7 +2,7 @@ Feature: Sign In
 
   As a user
   I would like to sign in to my account
-  So that I can use my account
+  So that I can use my saved preferences and rating
 
       # Normal Flow
   Scenario Outline: sign in to the account

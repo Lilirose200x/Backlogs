@@ -1,9 +1,9 @@
 Feature: Move Rook
 
   As a player
-  I would like to move a rook
-  So that I can capture an opponent's piece
-
+  I would like to play a legal move with my rook
+  So that I can move my rook
+  
      # Normal Flow
   Scenario: move a rook vertically or horizontally
     Given it is the player's turn to make a move

@@ -1,7 +1,7 @@
 Feature: Check Game End
 
   As a player
-  I would like the system end the game when a player win or draw
+  I would like my game to end when a player wins or draws
   So that I can start next game or exit
 
      # Normal Flow

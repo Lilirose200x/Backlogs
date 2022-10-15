@@ -1,8 +1,8 @@
 Feature: Move Queen
 
   As a player
-  I would like to move the queen
-  So that I can capture an opponent's piece
+  I would like to play a legal move with my queen
+  So that I can move my queen
 
      # Normal Flow
   Scenario: move the queen any number of squares in any direction
