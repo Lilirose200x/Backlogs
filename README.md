@@ -42,13 +42,13 @@ Project Backlog for Online Chess App
 | FR28 | As a user, I would like to post on a forum, so that I can discuss one of my games or chess in general | add_post.feature |
 | FR29 | As a moderator, I would like to delete innapropriate posts so that I can maintain a healthy community enviornment | delete_post.feature |
 | FR30 | As a user, I would like to view a list of streams on an external platform using the website so that I can find a streamer to watch | display_live_streamer.feature |
-| FR31 | As a user, I would like to edit an analysis board so that I can study custom positions of my choosing | |
-| FR32 | As an analyst, I would like to import a game played on the site so that I can study one of my past games | |
-| FR33 | As an analyst, I would like to import a game from a list of moves so that I can study a game played by chess professionals | |
-| FR34 | As an analyst, I would like to request a computer evaluation of a position so I can see what moves I played I could improve upon | |
-| FR35 | As a moderator, I would like to ban a player from using the site so that cheaters are prevented from playing | |
-| FR36 | As a player, I would like to have a rating which is updated when I finish a game so that I can evaluate my skill | |
-| FR37 | As a player, I would like to see a leaderboard of top-rated players so that I can compare my skill level relative to top players | |
+| FR31 | As a user, I would like to create an analysis session so that I can study custom positions of my choosing | create_analysis_session.feature |
+| FR32 | As an analyst, I would like to import a game played on the site so that I can study one of my past games | import_game_to_analysis.feature |
+| FR33 | As an analyst, I would like to import a game from a list of moves so that I can study a game played external to the site | import_moves_to_analysis.feature |
+| FR34 | As an analyst, I would like to request a computer evaluation of a position so I can see what moves could be improved upon | view_computer_analysis.feature |
+| FR35 | As a moderator, I would like to ban a player from playing on the site so that cheaters are prevented from playing | ban_player.feature |
+| FR36 | As a player, I would like to have a rating which is updated when I finish a game so that I can evaluate my skill | update_rating.feature |
+| FR37 | As a player, I would like to see a leaderboard of top-rated players so that I can compare my skill level relative to top players | view_rating_leaderboard.feature |
 | FR38 | As a player, I would like to see the rating of my opponent so that I can evaluate their skill relative to mine | |
 | FR39 | As a player, I would like to see a list of my games so that I can choose to analyze them | |
 | FR40 | As a user, I would like to comment on a forum post so that I can share my opinions about other player's games | |
