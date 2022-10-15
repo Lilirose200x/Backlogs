@@ -3,6 +3,7 @@ Feature: View Player Moves
   As a player or spectator
   I would like to view a list of moves played a game
   So that I can review the moves made by each player
+  And see if the game is about to be drawn by threefold repition of 50 move rule
 
     # Normal Flow
   Scenario Outline: record regular moves
