@@ -49,12 +49,12 @@ Project Backlog for Online Chess App
 | FR35 | As a moderator, I would like to ban a player from playing on the site so that cheaters are prevented from playing | ban_player.feature |
 | FR36 | As a player, I would like to have a rating which is updated when I finish a game so that I can evaluate my skill | update_rating.feature |
 | FR37 | As a player, I would like to see a leaderboard of top-rated players so that I can compare my skill level relative to top players | view_rating_leaderboard.feature |
-| FR38 | As a player, I would like to see the rating of my opponent so that I can evaluate their skill relative to mine | |
-| FR39 | As a player, I would like to see a list of my games so that I can choose to analyze them | |
-| FR40 | As a user, I would like to comment on a forum post so that I can share my opinions about other player's games | |
-| FR41 | As a moderator, I would like to delete a comment on a forum post so that I can maintain a healthy community enviornment | |
-| FR42 | As a user, I would like to report a game for suspicious behaviour so that a moderator can evaluate whether my opponent was cheating | |
-| FR43 | As a moderator, I would like to see a list of reported games so I can analyze whether players were cheating | |
+| FR38 | As a player, I would like to see the rating of my opponent so that I can evaluate their skill relative to mine | view_opponent_rating.feature |
+| FR39 | As a player, I would like to see a list of my games so that I can choose to analyze them | view_my_games.feature |
+| FR40 | As a user, I would like to comment on a forum post so that I can share my opinions about other player's games | comment_on_post.feature |
+| FR41 | As a moderator, I would like to delete a comment on a forum post so that I can maintain a healthy community enviornment | delete_comment.feature |
+| FR42 | As a user, I would like to report a game for suspicious behaviour so that a moderator can evaluate whether my opponent was cheating | report_game.feature |
+| FR43 | As a moderator, I would like to see a list of reported games so I can analyze whether players were cheating | view_reported_games.feature |
 | FR44 | As a user, I would like to view a list of most spectated lobbies so that I can watch an exciting game | |
 | FR45 | As a moderator, I would like to edit the list of featured external streamers so that the best content is visible to users | |
 
@@ -63,7 +63,7 @@ Project Backlog for Online Chess App
 | ID | Requirement |
 |---|---|
 | UR01 | A new user of the site should be able to successfully create an account in at most 90 seconds, 90% of the time |
-| UR02 |The chess website shall support at least 10,000 users at the same time|
-|UR03|A new user should be able to access the chess website from all kinds of portable devices|
+| UR02 | A new user should be able to access the chess website from any standard mobile and desktop screen size |
 | PR01 | A player should recieve their opponent's move within 1 second of it being made, 95% of the time |
 | PR02 | A player should recieve other's friend request within 1 second of it being made, 95% of the time |
+| PR03 | The chess website shall support at least 10,000 active users at the same time |
