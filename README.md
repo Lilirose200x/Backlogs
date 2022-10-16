@@ -1,4 +1,4 @@
-# 428 Assignment 1
+# 428 Assignment A
 
 Project Backlog for Online Chess App
 
