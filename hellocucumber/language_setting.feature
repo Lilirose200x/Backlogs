@@ -15,9 +15,3 @@ Feature: Language Setting
     Given the user select a language
     When the language is identical with the current language setting
     Then the system remain at the current language setting
-
-     # Error Flow
-  Scenario: setting apply failure due to network failure
-    Given the user select a language
-    When the selection is being made but the system failed to apply due to network reason
-    Then message alert the user setting failed, please try again

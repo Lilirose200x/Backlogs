@@ -16,8 +16,8 @@ Feature: Display Friend List
     When the user open his/her friend list and want to see who is online
     Then the message pops to ask the user to sign in
 
-    # Error Flow
-  Scenario: report error when get friend list error due to other issues
-    Given the network has some issue to pull the friend list of a user from server
+    # Alternate Flow
+  Scenario: the user has 0 friend added
+    Given the user is signed in
     When the user open his/her friend list and want to see who is online
-    Then the error message pops to inform the network issue, please try again later
+    Then the empty list is displayed

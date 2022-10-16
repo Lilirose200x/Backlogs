@@ -15,9 +15,3 @@ Feature: Background Color Setting
     Given the user select a color
     When the color is identical with the current color setting
     Then the board remain at the current color setting
-
-     # Error Flow
-  Scenario: setting apply failure due to network failure
-    Given the user select a color
-    When the selection is being made but the system failed to apply due to network reason
-    Then message alert the user setting failed, please try again

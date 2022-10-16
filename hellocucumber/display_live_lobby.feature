@@ -15,9 +15,3 @@ Feature: Display Live Lobby
     Given there are no matches available for spectating
     When a user enter the live lobby
     Then the system alert that currently there are no live match available
-
-    # Error Flow
-  Scenario: the network failed to get the live match list, report error
-    Given the network has some issue to pull the live matches from server
-    When a user enter the live lobby
-    Then the system alert the network failure, please try again

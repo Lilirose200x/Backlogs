@@ -15,10 +15,3 @@ Feature: Flip Board
     Given a player is in a game
     When the player attempt to flip the board back
     Then the board black side and white side is swapped and turns back to the original orientation
-
-    # Error Flow
-  Scenario: event execution failed
-    Given a player is in a game
-    When the player attempt to flip the board
-    And the front end flip function execution failed or did not response
-    Then the board remained in original position, the user need to click again
