@@ -10,14 +10,8 @@ Feature: Display Live Streamer
     When a user enter the streamer list
     Then the system provides a list view of each ongoing streamer lives, and provide links to the corresponding room
 
-    # Alternate Flow
-  Scenario: note there are 0 user doing streaming
+  # Alternate Flow
+  Scenario: Get list when there are 0 users doing streaming
     Given there are no streamer online, and no live tv available
     When a user enter the streamer list
     Then the system alert that there are currently no streamer is streaming
-
-    # Error Flow
-  Scenario: the network failed to get the live streamer list, report error
-    Given the network has some issue to pull the live streamer list from server
-    When a user enter the streamer list
-    Then the system alert the network failure, please try again

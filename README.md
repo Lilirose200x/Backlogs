@@ -55,8 +55,8 @@ Project Backlog for Online Chess App
 | FR41 | As a moderator, I would like to delete a comment on a forum post so that I can maintain a healthy community enviornment | delete_comment.feature |
 | FR42 | As a user, I would like to report a game for suspicious behaviour so that a moderator can evaluate whether my opponent was cheating | report_game.feature |
 | FR43 | As a moderator, I would like to see a list of reported games so I can analyze whether players were cheating | view_reported_games.feature |
-| FR44 | As a user, I would like to view a list of most spectated lobbies so that I can watch an exciting game | |
-| FR45 | As a moderator, I would like to edit the list of featured external streamers so that the best content is visible to users | |
+| FR44 | As a user, I would like to view a list of most spectated lobbies so that I can watch an exciting game | view_most_spectated_lobbies.feature |
+| FR45 | As a moderator, I would like to edit the list of featured external streamers so that the best content is visible to users | edit_live_streamer.feature |
 
 # Non-functional Requirements
 
