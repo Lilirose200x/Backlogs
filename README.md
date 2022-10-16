@@ -2,7 +2,7 @@
 
 Project Backlog for Online Chess App
 
-#Group 3
+# Group 3
 | Name | ID |
 |---|---|
 | Ruoli Wang | 260833864 |
