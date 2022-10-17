@@ -1,6 +1,6 @@
 # 428 Assignment A
 
-Project Backlog for Online Chess App
+Project Backlog for an Online Chess App
 
 # Group 3
 | Name | ID |
